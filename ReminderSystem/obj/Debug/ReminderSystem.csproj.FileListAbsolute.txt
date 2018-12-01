@@ -1,0 +1,7 @@
+C:\Users\Mohammad\source\repos\ReminderSystem\ReminderSystem\bin\Debug\ReminderSystem.exe.config
+C:\Users\Mohammad\source\repos\ReminderSystem\ReminderSystem\bin\Debug\ReminderSystem.exe
+C:\Users\Mohammad\source\repos\ReminderSystem\ReminderSystem\bin\Debug\ReminderSystem.pdb
+C:\Users\Mohammad\source\repos\ReminderSystem\ReminderSystem\obj\Debug\ReminderSystem.csprojAssemblyReference.cache
+C:\Users\Mohammad\source\repos\ReminderSystem\ReminderSystem\obj\Debug\ReminderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\ReminderSystem\ReminderSystem\obj\Debug\ReminderSystem.exe
+C:\Users\Mohammad\source\repos\ReminderSystem\ReminderSystem\obj\Debug\ReminderSystem.pdb
