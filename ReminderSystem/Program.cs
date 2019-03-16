@@ -96,17 +96,7 @@ namespace RamainderSystem
             }
         }
 
-        //static int UpdateStateSms(SqlConnection connection, int id, int stateOld, int stateNew)
-        //{
-        //    Console.Write("Updating State for id:" + id + " " + stateOld + "->" + stateNew);
-        //    using (var updCmds0s2 = new SqlCommand("update patient set state = " + stateNew + " where state = " + stateOld + " and id =" + id, connection))
-        //    {
-        //        int affectedRows = updCmds0s2.ExecuteNonQuery();
-        //        Console.WriteLine(" (Affected rows:" + affectedRows + ")");
-
-        //        return affectedRows;
-        //    }
-        //}
+        
 
         public void SendEmail(string emailTo, string subject, string body)
         {
@@ -135,7 +125,7 @@ namespace RamainderSystem
 
         public string SendSms(string msisdn, string message, string from)
         {
-            //string username = "cphma481";
+            
             string username = "cphma481";
             string apikey = "3becb0e4-4fd7-4ad2-9082-4b60ce3ea724";
 
